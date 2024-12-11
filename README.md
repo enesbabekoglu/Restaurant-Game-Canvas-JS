@@ -130,9 +130,7 @@ Yıldızlar, ilerleyen versiyonlarda ek özelliklerin kilidini açmak için kull
 ## Kurulum Aşamaları 🛠️
 
 1. Proje dosyalarını indirin.
-2. Dosyaları sunucunuzun ilgili diz
-
-inine yükleyin.
+2. Dosyaları sunucunuzun ilgili dizinine yükleyin.
 3. Proje kullanıma hazırdır.
 
 Kurulum sonrası, dosyalar kolayca düzenlenebilir ve yeni özellikler basit bir şekilde eklenebilir.
